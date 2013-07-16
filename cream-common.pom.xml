@@ -16,6 +16,7 @@
     <groupId>org.glite</groupId>
     <artifactId>cream-parent</artifactId>
     <version>1.0.0</version>
+    <relativePath>../cream-parent/pom.xml</relativePath>
   </parent>
 
   <scm>
