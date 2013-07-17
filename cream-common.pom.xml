@@ -189,19 +189,4 @@
 
   </dependencies>
 
-  <repositories>
-      <repository>
-	 <id>sonatype-nexus-staging</id>
-         <url>http://ci-01.cnaf.infn.it:8081/nexus/content/repositories/central/</url>
-      </repository>
-      <repository>
-         <id>sonatype-nexus-staging</id>
-         <url>http://ci-01.cnaf.infn.it:8081/nexus/content/repositories/switch/</url>
-      </repository>
-      <repository>
-         <id>sonatype-nexus-staging</id>
-         <url>http://ci-01.cnaf.infn.it:8081/nexus/content/repositories/thirdparty/</url>
-      </repository>
-  </repositories>
-
 </project>
