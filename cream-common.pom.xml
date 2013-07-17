@@ -15,7 +15,7 @@
   <parent>
     <groupId>org.glite</groupId>
     <artifactId>cream-parent</artifactId>
-    <version>1.0.0</version>
+    <version>0.8.0</version>
     <relativePath>../cream-parent/pom.xml</relativePath>
   </parent>
 
@@ -158,11 +158,13 @@
     <dependency>
       <groupId>eu.eu-emi.security</groupId>
       <artifactId>canl</artifactId>
+      <version>1.2.0</version>
     </dependency>
 
     <dependency>
       <groupId>org.bouncycastle</groupId>
       <artifactId>bcprov-jdk15</artifactId>
+      <version>1.46</version>
     </dependency>
 
     <dependency>
