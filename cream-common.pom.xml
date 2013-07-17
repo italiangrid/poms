@@ -187,6 +187,13 @@
       <artifactId>neethi</artifactId>
     </dependency>
 
+    <dependency>
+      <groupId>org.glite.security.trustmanager</groupId>
+      <artifactId>trustmanager</artifactId>
+      <version>2.5.5</version>
+    </dependency>
+
+
   </dependencies>
 
 </project>
