@@ -137,7 +137,7 @@
       </activation>
       <distributionManagement>
         <repository>
-          <id>nexus-thirdparty</id>
+          <id>nexus-releases</id>
         </repository>
       </distributionManagement>
     </profile>
