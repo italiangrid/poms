@@ -4,11 +4,11 @@
 
   <groupId>org.glite.jdl</groupId>
   <artifactId>jdl-api-java</artifactId>
-  <version>3.2.1</version>
+  <version>3.3.2</version>
   <packaging>jar</packaging>
   
   <properties>
-    <rpm.release>1</rpm.release>
+    <rpm.release>2</rpm.release>
     <rpm.pkgname>glite-jdl-api-java</rpm.pkgname>
   </properties>
   
@@ -128,12 +128,5 @@
     </dependency>
     
   </dependencies>
-  
-  <repositories>
-      <repository>
-         <id>sonatype-nexus-staging</id>
-         <url>http://ci-01.cnaf.infn.it:8081/nexus/content/repositories/thirdparty/</url>
-      </repository>
-  </repositories>
 
 </project>
