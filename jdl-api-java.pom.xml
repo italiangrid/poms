@@ -137,7 +137,7 @@
   
   <distributionManagement>
     <repository>
-      <id>nexus-releases</id>
+      <id>sonatype-nexus-staging</id>
       <name>NEXUS RELEASES repo</name>
       <url>http://ci-01.cnaf.infn.it:8081/nexus/content/repositories/releases/</url>
     </repository>
