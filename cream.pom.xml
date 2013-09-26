@@ -342,14 +342,14 @@
 
     <dependency>
       <groupId>org.glite.ce</groupId>
-      <artifactId>ce-delegation-skeleton</artifactId>
+      <artifactId>delegation-skeleton</artifactId>
       <version>1.16.1</version>
       <scope>compile</scope>
     </dependency>
 
     <dependency>
       <groupId>org.glite.ce</groupId>
-      <artifactId>cream-es-skeleton</artifactId>
+      <artifactId>es-skeleton</artifactId>
       <version>1.16.1</version>
       <scope>compile</scope>
     </dependency>
